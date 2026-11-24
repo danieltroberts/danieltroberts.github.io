@@ -1,0 +1,68 @@
+page_title = "Teaching"
+
+[[institutions]]
+name = "Taipei School of Economics and Political Science"
+location = "National Tsing Hua University"
+past = false
+
+[[institutions.courses]]
+term = "Spring 2027"
+badge = "Upcoming"
+title = "The Political Economy of AI"
+subtitle = "Growth, Inequality, and Structural Change"
+role = "Instructor, Graduate Seminar"
+
+[[institutions]]
+name = "Harvard University"
+past = true
+
+[[institutions.courses]]
+term = "2025–2026"
+title = "Senior Thesis Tutorial"
+role = "Instructor, Harvard College (Department of Government)"
+
+[[institutions.courses]]
+term = "Spring 2024"
+title = "Opportunity Politics"
+subtitle = "Education, Housing, Credit, and Inequality in Democracies"
+role = "Instructor (own syllabus), Harvard College"
+syllabus_url = "https://danieltroberts.github.io/market_supplemental/Daniel_Roberts_Sample_Syllabus_Opportunity_Politics.pdf"
+
+[[institutions.courses]]
+term = "Fall 2023"
+title = "Political Economy of the School"
+role = "Teaching Fellow with Paul Peterson, Harvard GSAS and Harvard Kennedy School (Cross-Listed)"
+
+[[institutions.courses]]
+term = "Spring 2022"
+title = "Political Theory Field Seminar"
+role = "Teaching Fellow with Michael Rosen and Lucas Stanczyk, Harvard GSAS"
+
+[[institutions.courses]]
+term = "Fall 2021"
+title = "International Political Economy"
+role = "Head Teaching Fellow with Jeffry Frieden, Harvard College and DCE"
+
+[[institutions.courses]]
+term = "Spring 2021"
+title = "Ethics and Public Policy"
+role = "Teaching Fellow with Eric Beerbohm, Harvard College"
+
+[[institutions.courses]]
+term = "Fall 2020"
+title = "Foundations of Comparative Politics"
+role = "Teaching Fellow with Steven Levitsky, Harvard College"
+
+[[institutions]]
+name = "The University of Chicago"
+past = true
+
+[[institutions.courses]]
+term = "AY 2015–2016"
+title = "College Core Tutor — Economics"
+role = "Tutor for the College Core Program, the University of Chicago College"
+
+[[institutions.courses]]
+term = "Fall 2013–Winter 2014"
+title = "Elementary Functions and Calculus I–II"
+role = "Teaching Assistant with Bena Tshishiku, the University of Chicago College"

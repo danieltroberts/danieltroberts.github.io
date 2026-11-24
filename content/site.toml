@@ -1,0 +1,41 @@
+title = "Daniel T. Roberts"
+author = "Daniel T. Roberts"
+role = "Post-doctoral Fellow"
+affiliation = "Taipei School of Economics and Political Science"
+university = "National Tsing Hua University"
+description = "Personal academic website of Daniel T. Roberts, Post-doctoral Fellow at the Taipei School of Economics and Political Science, National Tsing Hua University."
+base_url = "https://www.danieltroberts.com"
+headshot = "assets/img/headshot.jpg"
+headshot_alt = "Portrait of Daniel T. Roberts"
+cv_pdf = "Daniel_Roberts_CV.pdf"
+email_user = "dtroberts"
+email_domain = "mx.nthu.edu.tw"
+show_selected_research = false
+
+[[nav]]
+label = "Home"
+url = "/"
+
+[[nav]]
+label = "Research"
+url = "/research/"
+
+[[nav]]
+label = "Teaching"
+url = "/teaching/"
+
+[[nav]]
+label = "C.V."
+url = "/cv/"
+
+[[profiles]]
+label = "Google Scholar"
+url = "https://scholar.google.com/citations?user=0wKU4iEAAAAJ&hl=en"
+
+[[profiles]]
+label = "Bluesky"
+url = "https://bsky.app/profile/danieltroberts.com"
+
+[[profiles]]
+label = "X"
+url = "https://x.com/DanielT_Roberts"

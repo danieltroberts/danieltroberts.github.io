@@ -1,0 +1,3 @@
+I am a Post-doctoral Fellow, and from February 2027 an Assistant Professor of Political Science, at the Taipei School of Economics and Political Science (TSE) at National Tsing Hua University. I conduct research on politics of policymaking and opportunity access in democracies, with a focus on education, financial, and labor market policy. In ongoing research, I study the politics of access to good schools and how financial firms influence regulatory policy. I am also studying how labor market risks affect public opinion on AI policy.
+
+Before joining TSE, I received a Ph.D. in Political Science at Harvard University. I also received a B.A. in Economics at the University of Chicago and worked as a research analyst at the Federal Reserve Bank of New York.

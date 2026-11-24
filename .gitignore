@@ -1,0 +1,10 @@
+# Generated site output and Python cache
+_site/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini

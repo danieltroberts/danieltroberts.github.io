@@ -1,0 +1,146 @@
+page_title = "Research and Writing"
+
+[[working_papers]]
+title = "Boundary Defense: Evidence from a Referendum Against School Reform"
+featured = true
+topics = ["Education", "Political Economy"]
+primary_url = "https://danieltroberts.github.io/working_papers/Roberts_boundary_defense.pdf"
+abstract = """
+Policies that reinforce unequal opportunity persist in democracies. I develop a theory of “Boundary Defense” to explain why. Middle-class families mobilize to defend these opportunity boundaries against reform when they lack alternative strategies to secure their status against uncertainty. In Germany, I argue early-age sorting across stratified schools is an opportunity boundary that excludes immigrants and that status uncertain German families defend it against reform. To test this, I introduce a 2010 referendum which blocked a reform to early-age sorting across schools in Hamburg and collect data from precinct-level votes, city-district demographics, election studies, and archival sources. Results show referendum support was highest in lower-income places and specific precincts with less access to academic schools and higher shares of immigrant children, among parents of school-age children without academic educations, and predicts future support for politicians who took positions against the reform. I suggest this theory also applies to different boundaries in both education and other fields, and that policies which reduce middle-class uncertainty can equalize opportunity better than technocratic reforms given boundary defense.
+"""
+
+[[working_papers.links]]
+label = "Latest Version"
+url = "https://danieltroberts.github.io/working_papers/Roberts_boundary_defense.pdf"
+
+[[working_papers.links]]
+label = "SocArXiv"
+url = "https://osf.io/preprints/socarxiv/8trup"
+
+[[working_papers.links]]
+label = "X Summary"
+url = "https://x.com/DanielT_Roberts/status/1962982172802846874"
+
+[[working_papers.links]]
+label = "Bluesky Summary"
+url = "https://bsky.app/profile/danieltroberts.com/post/3lxuyu7vris2j"
+
+[[working_papers.links]]
+label = "APSA Poster"
+url = "https://danieltroberts.github.io/market_supplemental/Daniel_Roberts_boundary_defense_poster.pdf"
+
+[[working_papers]]
+title = "Local Dependence: Evidence from the Rollback of Dodd-Frank"
+featured = true
+topics = ["Finance", "Regulation"]
+primary_url = ""
+abstract = """
+A number of important US banks secured looser risk oversight when Congress rolled back the Dodd-Frank Act in 2018. Existing theories suggest that large US banks wield instrumental power to secure deregulation, but this rollback benefited smaller banks. I explain this with a theory of local dependence, arguing that geographically concentrated and represented firms use local disinvestment threats to influence policy. I hypothesize that local dependence on banks predicts representatives' votes for the rollback, and test this by linking district-level local dependence on banks, banks' instrumental influence, and roll-call votes. Results show that credible local threats to small banks' lending and regional banks' high-risk lending predicts rollback support, while instrumental influence only does when it accompanies prospective threats to local headquarters employment at regional banks. Qualitative evidence provides further support. To conclude, I outline directions for future research, interpret these American results in comparative perspective, and suggest implications for the politics of international risk regulation.
+"""
+
+[[publications]]
+title = "Liquidity Regulations, Bank Lending and Fire-Sale Risk"
+authors = "Daniel T. Roberts, Asani Sarkar, and Or Shachar"
+year = "2023"
+venue = "Journal of Banking & Finance"
+details = "156: 107007"
+featured = true
+topics = ["Finance", "Regulation"]
+primary_url = "https://www.sciencedirect.com/science/article/abs/pii/S037842662300198X"
+abstract = """
+We examine whether U.S. banks subject to the Liquidity Coverage Ratio (LCR) reduce lending (an unintended consequence) and/or become more resilient to liquidity shocks, as intended by regulators. We find that LCR banks tighten lending standards, and reduce liquidity creation that occurs mainly through lower lending relative to non-LCR banks. However, covered banks also contribute less to fire-sale externalities relative to exempt banks. For LCR banks, we estimate that the total after-tax benefits of reduced fire-sale risk (net of the costs associated with foregone lending) exceed $50 billion from 2013Q2 to 2017, mostly accruing to the largest LCR banks. Non-LCR regulations enacted during our sample period cannot fully account for these findings. For the banking sector as a whole, lending migrates to smaller, non-LCR banks so that lending shares increase but fire-sale risk does not decrease. Our results highlight the trade-off between liquidity creation and resiliency arising from liquidity regulations that underlie the debate on whether the LCR should be extended following the banking crisis of March 2023.
+"""
+bibtex = """
+@article{roberts2023liquidity,
+  title   = {Liquidity Regulations, Bank Lending and Fire-Sale Risk},
+  author  = {Roberts, Daniel T. and Sarkar, Asani and Shachar, Or},
+  journal = {Journal of Banking & Finance},
+  volume  = {156},
+  pages   = {107007},
+  year    = {2023},
+  doi     = {10.1016/j.jbankfin.2023.107007}
+}
+"""
+
+[[publications.links]]
+label = "Journal"
+url = "https://www.sciencedirect.com/science/article/abs/pii/S037842662300198X"
+
+[[publications.links]]
+label = "Pre-print (SSRN)"
+url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3199876"
+
+[[publications.links]]
+label = "Pre-print (PDF)"
+url = "https://danieltroberts.github.io/paper_archive/Roberts_etal_JBF_2023_AcceptedManuscript.pdf"
+
+[[works_in_progress]]
+title = "AI as a New Insider Outsider Problem: Evidence from UK Panel Data"
+topics = ["AI Policy", "Labor"]
+
+[[works_in_progress]]
+title = "Don't Ban, Govern! The Politics of AI Regulation in Europe"
+topics = ["AI Policy", "Regulation"]
+
+[[works_in_progress]]
+title = "Metropolitan Boundaries: Evidence from the Reversal of Court-Ordered Desegregation"
+note = "Presented: APSA 2024"
+topics = ["Education"]
+
+[[works_in_progress]]
+title = "Veiled Critique: Notes from a Reinterpretation of Japanese Fiction"
+note = "Presented: WPSA 2025"
+topics = ["Culture & Theory"]
+
+[[works_in_progress]]
+title = "Pluralist Pedagogy: Insights from a Redesign of Research Tutorials"
+note = "Presented: APSA Teaching and Learning Conference 2025"
+topics = ["Pedagogy"]
+
+[[other_writing]]
+title = "How Will You Live? Miyazaki’s Critique of Japanese Imperialism and Dialectic with Takahata in The Boy and the Heron"
+year = "2024"
+venue = "Senses of Cinema"
+details = "111"
+primary_url = "https://www.sensesofcinema.com/2024/feature-articles/how-will-you-live-miyazakis-critique-of-japanese-imperialism-and-dialectic-with-takahata-in-the-boy-and-the-heron/"
+
+[[other_writing.links]]
+label = "Article"
+url = "https://www.sensesofcinema.com/2024/feature-articles/how-will-you-live-miyazakis-critique-of-japanese-imperialism-and-dialectic-with-takahata-in-the-boy-and-the-heron/"
+
+[[other_writing.links]]
+label = "Pre-print (PDF)"
+url = "https://danieltroberts.github.io/paper_archive/Roberts_How_will_you_live_preprint.pdf"
+
+[[other_writing]]
+title = "Did Banks Subject to LCR Reduce Liquidity Creation?"
+coauthors = "with Asani Sarkar and Or Shachar"
+venue = "Federal Reserve Bank of New York Liberty Street Economics"
+date = "October 15, 2018"
+primary_url = "https://libertystreeteconomics.newyorkfed.org/2018/10/did-banks-subject-to-lcr-reduce-liquidity-creation/"
+
+[[other_writing.links]]
+label = "Link"
+url = "https://libertystreeteconomics.newyorkfed.org/2018/10/did-banks-subject-to-lcr-reduce-liquidity-creation/"
+
+[[other_writing]]
+title = "The Low Volatility Puzzle: Is This Time Different?"
+coauthors = "with David O. Lucca and Peter Van Tassel"
+venue = "Federal Reserve Bank of New York Liberty Street Economics"
+date = "November 15, 2017"
+primary_url = "https://libertystreeteconomics.newyorkfed.org/2017/11/the-low-volatility-puzzle-is-this-time-different/"
+
+[[other_writing.links]]
+label = "Link"
+url = "https://libertystreeteconomics.newyorkfed.org/2017/11/the-low-volatility-puzzle-is-this-time-different/"
+
+[[other_writing]]
+title = "The Low Volatility Puzzle: Are Investors Complacent?"
+coauthors = "with David O. Lucca and Peter Van Tassel"
+venue = "Federal Reserve Bank of New York Liberty Street Economics"
+date = "November 13, 2017"
+primary_url = "https://libertystreeteconomics.newyorkfed.org/2017/11/the-low-volatility-puzzle-are-investors-complacent/"
+
+[[other_writing.links]]
+label = "Link"
+url = "https://libertystreeteconomics.newyorkfed.org/2017/11/the-low-volatility-puzzle-are-investors-complacent/"
